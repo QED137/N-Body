@@ -22,27 +22,25 @@ With canonical momentum $\boldsymbol{p}_i=mv_i$.
 $m_i$ is the mass of the particle located at $r_i$.
 
 $$
-\boldsymbol{q}_i & = \frac{\partial H}{\partial \boldsymbol{p}_i} \implies \frac{d\boldsymbol{r}_i}{dt} = \boldsymbol{v}_i 
+\boldsymbol{q}_i  = \frac{\partial H}{\partial \boldsymbol{p}_i} \implies \frac{d\boldsymbol{r}_i}{dt} = \boldsymbol{v}_i 
 
 $$
 $$
-\boldsymbol{p}_i & = -\frac{\partial H}{\partial \boldsymbol{q}_i} \implies \frac{d\boldsymbol{v}_i}{dt} = \boldsymbol{a}_i
+\boldsymbol{p}_i  = -\frac{\partial H}{\partial \boldsymbol{q}_i} \implies \frac{d\boldsymbol{v}_i}{dt} = \boldsymbol{a}_i
 $$
 
 Where $a_i$ is the acceleration,
 
-\begin{equation}\label{acceleration}
-    \boldsymbol{a}_i(t)=\sum_{j\neq i}^{N} Gm_j\frac{\boldsymbol{r}_{ij}}{r^3_{ij}}
-\end{equation}
+$$
+\boldsymbol{a}_i(t)=\sum_{j\neq i}^{N} Gm_j\frac{\boldsymbol{r}_{ij}}{r^3_{ij}}
+$$
 
 Where
 
-\[
-\begin{align}
-\boldsymbol{r}_{ij} & = \boldsymbol{r}_j(t)-\boldsymbol{r}_i(t) \\
-r_{ij} & = |\boldsymbol{r}_{ij}|
-\end{align}
-\]
+$$
+\boldsymbol{r}_{ij}  = \boldsymbol{r}_j(t)-\boldsymbol{r}_i(t) \\
+r_{ij}  = |\boldsymbol{r}_{ij}|
+$$
 
 Another formula that will be required further is the jerk
 
