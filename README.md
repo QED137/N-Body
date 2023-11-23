@@ -38,6 +38,9 @@ Where  $a_i$  is the acceleration,
 $\boldsymbol{a}_i(t)=\sum_{j\neq i}^{N} Gm_j\frac{\boldsymbol{r}_{ij}}{r^3_{ij}}$
 
 
+$$
+H = \sum_{i=1}^{N} \frac{\boldsymbol{{p}}^2_i}{2m_i}-\sum_{i=1}^{N}\sum_{j=i+1}^{N}\frac{G m_i m_j}{|\boldsymbol{q}_i-\boldsymbol{q}_j|}
+$$
 
 
 
