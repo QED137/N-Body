@@ -22,8 +22,10 @@ With canonical momentum $\boldsymbol{p}_i=mv_i$.
 $m_i$ is the mass of the particle located at $r_i$.
 
 $$
-\boldsymbol{q}_i  = \frac{\partial H}{\partial \boldsymbol{p}_i} \implies \frac{d\boldsymbol{r}_i}{dt} = \boldsymbol{v}_{i} 
+\boldsymbol{q}_i  = \frac{\partial H}{\partial \boldsymbol{p}_i} \implies \frac{d\boldsymbol{r}_i}{dt} = \boldsymbol{v}_i
 $$
+
+and
 
 $$
 \boldsymbol{p}_i  = -\frac{\partial H}{\partial \boldsymbol{q}_i} \implies \frac{d\boldsymbol{v}_i}{dt} = \boldsymbol{a}_i
