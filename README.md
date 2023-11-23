@@ -10,8 +10,6 @@ The Hamiltonian of a system is
 $
     H  = \sum_{i=1}^{N} \frac{\boldsymbol{{p}}^2_i}{2m_i}-\sum_{i=1}^{N}\sum_{j=i+1}^{N}\frac{G m_i m_j}{|\boldsymbol{q}_i-\boldsymbol{q}_j|}
 $
-**The Cauchy-Schwarz Inequality**
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 With canonical momentum $\boldsymbol{p}_i=mv_i$.
 $m_i$ is the mass of particle located at $r_i$.
