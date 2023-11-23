@@ -10,7 +10,7 @@ The gravitation appears deceptively simple when it is put into mathematical form
 Classical mechanics gives a few handfuls of ways of looking at the problem of classical dynamics. Lagrangian and Hamiltonian points of view are essentially similar to each other, but preferences of one over the other depend on the nature of the problem. Hamiltonian method opens a new way of visualizing the problem in the phase space. Since the N-body problem consists of a large number of particles, the Hamiltonian point of view is more feasible.
 
 The motion of N point masses in their mutual gravitational field is the classical N-body problem. The Hamiltonian of a system is
-![Equation 1]([link-to-your-image1](https://latex.codecogs.com/svg.image?$$H=\sum_{i=1}^{N}\frac{\boldsymbol{{p}}^2_i}{2m_i}-\sum_{i=1}^{N}\sum_{j=i&plus;1}^{N}\frac{G&space;m_i&space;m_j}{|\boldsymbol{q}_i-\boldsymbol{q}_j|}$$))
+![Equation 1](https://latex.codecogs.com/svg.image?$$H=\sum_{i=1}^{N}\frac{\boldsymbol{{p}}^2_i}{2m_i}-\sum_{i=1}^{N}\sum_{j=i&plus;1}^{N}\frac{G&space;m_i&space;m_j}{|\boldsymbol{q}_i-\boldsymbol{q}_j|}$$)
 
 
 
