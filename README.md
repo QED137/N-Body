@@ -26,6 +26,9 @@ Where
 ![r_ij equation](https://img.shields.io/badge/\boldsymbol{r}_{ij}%20=%20\boldsymbol{r}_j(t)%20-%20\boldsymbol{r}_i(t))
 
 ![r equation](https://img.shields.io/badge/r_{ij}%20=%20|\boldsymbol{r}_{ij}|)
+![H equation](https://img.shields.io/badge/H%20=%20\sum_{i=1}^{N}%20\frac{\boldsymbol{p}_i^2}{2m_i}%20-%20\sum_{i=1}^{N}\sum_{j=i+1}^{N}%20\frac{G%20m_i%20m_j}{|\boldsymbol{q}_i-\boldsymbol{q}_j}|)
+
+
 
 Another formula that will be required further is the jerk
 
