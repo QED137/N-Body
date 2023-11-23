@@ -40,7 +40,7 @@ $$
 Where
 
 $$
-\boldsymbol{r}_{ij}  = \boldsymbol{r}_j(t)-\boldsymbol{r}_i(t) \\
+\boldsymbol{r}_{ij}  = \boldsymbol{r}_j(t)-\boldsymbol{r}_i(t) 
 r_{ij}  = |\boldsymbol{r}_{ij}|
 $$
 
