@@ -11,9 +11,7 @@ Classical mechanics gives a few handfuls of ways of looking at the problem of cl
 
 The motion of N point masses in their mutual gravitational field is the classical N-body problem. The Hamiltonian of a system is
 
-$$
-H = \sum_{i=1}^{N} \frac{\boldsymbol{{p}}^2_i}{2m_i}-\sum_{i=1}^{N}\sum_{j=i+1}^{N}\frac{G m_i m_j}{|\boldsymbol{q}_i-\boldsymbol{q}_j|}
-$$
+https://latex.codecogs.com/svg.image?$$H=\sum_{i=1}^{N}\frac{\boldsymbol{{p}}^2_i}{2m_i}-\sum_{i=1}^{N}\sum_{j=i&plus;1}^{N}\frac{G&space;m_i&space;m_j}{|\boldsymbol{q}_i-\boldsymbol{q}_j|}$$
 
 With canonical momentum $\boldsymbol{p}_i=mv_i$.
 
