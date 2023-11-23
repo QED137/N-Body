@@ -32,22 +32,24 @@ $$
 $$
 
 Where  $a_i$  is the acceleration,
-$$
-\boldsymbol{a}_i(t)=\sum^{N}_{j\neq i}
-$$
+
 
 $$
 \boldsymbol{a}_i(t)=\sum_{j\neq i}^{N} Gm_j\frac{\boldsymbol{r}_{ij}}{r^3_{ij}}
 $$
 
+
 Where
+
 
 $$
 \boldsymbol{r}_{ij}  = \boldsymbol{r}_j(t)-\boldsymbol{r}_i(t) 
 r_{ij}  = |\boldsymbol{r}_{ij}|
 $$
 
+
 Another formula that will be required further is the jerk
+
 
 $$
 \boldsymbol{\dot{a}}_i(t)=\sum_{j\neq i}^{N} Gm_j \left(\frac{\boldsymbol{v}_{ij}}{r^3_{ij}}-\frac{3(\boldsymbol{v}_{ij}\cdot\boldsymbol{r}_{ij})}{r_{ij}}\boldsymbol{r}_{ij} \right)
