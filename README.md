@@ -35,7 +35,7 @@ Where  $a_i$  is the acceleration,
 
 
 $$
-\boldsymbol{a}_{i}(t) = \sum_ {i\neq j}
+\boldsymbol{a}_{i}(t) = \sum_ {i\eq j}
 $$
 
 
