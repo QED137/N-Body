@@ -31,31 +31,6 @@ $$
 \boldsymbol{p}_i  = -\frac{\partial H}{\partial \boldsymbol{q}_i} \implies \frac{d\boldsymbol{v}_i}{dt} = \boldsymbol{a}_i
 $$
 
-Where  $a_i$  is the acceleration,
-
-
-$$
-\boldsymbol{a}_{i}(t)=\sum_{i=j}^{N}Gm_{ij}
-$$
-
-
-
-
-Where
-
-
-$$
-\boldsymbol{r}_{ij}  = \boldsymbol{r}_j(t)-\boldsymbol{r}_i(t) 
-r_{ij}  = |\boldsymbol{r}_{ij}|
-$$
-
-
-Another formula that will be required further is the jerk
-
-
-$$
-\boldsymbol{\dot{a}}_i(t)=\sum_{j\neq i}^{N} Gm_j \left(\frac{\boldsymbol{v}_{ij}}{r^3_{ij}}-\frac{3(\boldsymbol{v}_{ij}\cdot\boldsymbol{r}_{ij})}{r_{ij}}\boldsymbol{r}_{ij} \right)
-$$
 
 
 $\boldsymbol{v}$ is the velocity of the $i$th particle.
