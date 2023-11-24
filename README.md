@@ -1,7 +1,7 @@
 
 # N-Bodies Simulation: Chaos In Planetary System
 
-This is an old computational program in Python that I completed during my Master's in Astro and Particle Physics as part of a practical course in Astronomy and Astrophysics coursework.
+This is an old computational program in Python that I completed during my Master's in Astro and Particle Physics as part of a practical course in Astronomy and Astrophysics coursework. The repository has two different 
 
 The gravitation appears deceptively simple when it is put into mathematical form. The weakest among the lot! Its dependence on mass and the infinite range of effects creates an insurmountable difficulty when considering any celestial body's dynamics. In common dictum, each body attracts the other, so the motion of a body has a very complicated dependence on the configurations of other bodies. The N-body problem is about this. This protocol aims to consider an assembly of N-bodies and study the cause and effect among themselves.
 
