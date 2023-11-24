@@ -33,5 +33,5 @@ $$
 
 
 
-$\boldsymbol{v}$ is the velocity of the $i$th particle.
+** Details About the problem and solution has been mention inside the file **
 
