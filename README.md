@@ -35,7 +35,9 @@ $$
 *Steps Are*
 
 -Using Hamiltonian the equation of motion, here, the rate of change of position vector and momenta, are obtained.
+
 -Different numerical methods of computing differential equations have been used.
+
 -Finally, the results are plotted. Oribit of two body systems, stability analysis of numerical computations, etc.
 
 
