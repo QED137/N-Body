@@ -35,7 +35,7 @@ Where  $a_i$  is the acceleration,
 
 
 $$
-\boldsymbol{a}_{i}(t) = \sum^{N}_{j\neq i} Gm_j \frac{\boldsymbol{r}_{ij}}{r^{3}_{ij}}
+\boldsymbol{a}_{i}(t) = \sum^{N}_{j\neq i} Gm_j \frac{\boldsymbol{r}}{r}
 $$
 
 
