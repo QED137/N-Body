@@ -31,5 +31,5 @@ $$
 \boldsymbol{p}_i  = -\frac{\partial H}{\partial \boldsymbol{q}_i} \implies \frac{d\boldsymbol{v}_i}{dt} = \boldsymbol{a}_i
 $$
 
-# Details of problem and solution has bee wrtten in the jupyter file 
+## Details of problem and solution has been explained in the jupyter file 
 
